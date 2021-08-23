@@ -29,7 +29,7 @@
 
 
 <!---
-DevGalacticB69/DevGalacticB69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GalacticB69/GalacticB69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
